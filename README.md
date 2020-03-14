@@ -1,6 +1,8 @@
 # Refugee
 
-実行動画：https://youtu.be/rnGhoVY4pks
+実行動画:
+
+[![Alt text](https://img.youtube.com/vi/rnGhoVY4pks/0.jpg)](https://www.youtube.com/watch?v=rnGhoVY4pks)
 
 This is a Roguelike Game made with Unity.
 
